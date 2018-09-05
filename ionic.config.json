@@ -1,0 +1,7 @@
+{
+  "name": "NextflowScroll",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
